@@ -32,7 +32,7 @@ This dashboard provides a complete view of mobile sales performance including:
 ### 1️⃣ Main Dashboard
 Overview of KPIs (Total Sales, Quantity, Transactions, Average Price), city-wise sales map, monthly quantity trend, ratings breakdown, payment method split, and brand/model performance.
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Dashboard-overview.png)
 
 ---
 
