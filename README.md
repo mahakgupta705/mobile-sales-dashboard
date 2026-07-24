@@ -32,21 +32,21 @@ This dashboard provides a complete view of mobile sales performance including:
 ### 1️⃣ Main Dashboard
 Overview of KPIs (Total Sales, Quantity, Transactions, Average Price), city-wise sales map, monthly quantity trend, ratings breakdown, payment method split, and brand/model performance.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ---
 
 ### 2️⃣ MTD (Month-to-Date) Report
 Tracks cumulative sales progress day-by-day within the selected month, along with quantity, transactions, and average price for that period.
 
-![MTD Report](screenshots/mtd-report.png)
+![MTD Report](mtd-report.png)
 
 ---
 
 ### 3️⃣ Same Period Last Year
 Compares current performance against the same period in previous years — broken down by Year, Quarter, and Month — to identify growth trends.
 
-![Same Period Last Year](screenshots/same-period-last-year.png)
+![Same Period Last Year](same-period-last-year.png)
 
 ---
 
